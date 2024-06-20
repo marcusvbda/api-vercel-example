@@ -2,10 +2,10 @@
   "name": "api-vercel-example",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node src/index.server.js",
-    "dev": "nodemon src/index.server.js"
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
   },
   "repository": {
     "type": "git",
